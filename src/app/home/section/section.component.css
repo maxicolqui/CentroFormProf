@@ -11,12 +11,19 @@ img{width: 320px;
         width: 220px;
         height: 220px;
     }
+    h5{
+        font-size: 15px;
+    }
 }
 
 @media (max-width:576px) {
     img{
         width: 220px;
         height: 220px;
-    }
+    }    
+    h5{
+        font-size: 15px;
+    }   
+
     
 }
