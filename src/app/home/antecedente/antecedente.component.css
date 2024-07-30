@@ -3,8 +3,26 @@
     h5{
         font-size: 15px;
     }   
+}
 
-    
+/*=============================Pantalla pequeña=============================*/
+@media  (max-width:1280px){
+    #intro, #equipo{
+        width: 90% !important;
+    }
+    .servicio-fila{
+        width: 100% !important;
+        text-align: center;
+    }
+    img{
+        width: 180px;
+        height: 160px;
+    }
+    p{
+        font-size: 15px;
+    }
+
+
 }
 /*=============================Pantalla pequeña=============================*/
 @media  (max-width:768px){
