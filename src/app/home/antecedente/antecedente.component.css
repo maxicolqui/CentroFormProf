@@ -1,12 +1,12 @@
 @media (max-width:576px) {
-        
+
     h5{
         font-size: 15px;
-    }   
+    }
 }
 
 /*=============================Pantalla pequeña=============================*/
-@media  (max-width:1280px){
+@media  (max-width:1380px){
     #intro, #equipo{
         width: 90% !important;
     }
